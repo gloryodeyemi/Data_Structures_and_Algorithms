@@ -42,6 +42,8 @@ This is a repository that contains information about data structures and algorit
 
 ### Sort Algorithms
 1. **Bubble Sort:**
+2. **Selection Sort:**
+3. **Insertion Sort:**
 
 
 ### References
